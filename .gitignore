@@ -1,0 +1,17 @@
+# Package Files #
+*.jar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# JetBrains template
+*.iml
+
+# Directory-based project format:
+.idea/
+
+### Custom configuration
+# Disable kotlin out
+out/
+
+
